@@ -1,0 +1,7 @@
+# Generated output and local caches
+dist/
+dist.new/
+dist.old/
+state/
+__pycache__/
+*.pyc

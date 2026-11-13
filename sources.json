@@ -1,0 +1,362 @@
+[
+ {
+  "id": "anthropics",
+  "label": "Anthropic (official)",
+  "repo": "anthropics/skills",
+  "path": "anthropics_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "anthropics-plugins",
+  "label": "Anthropic plugins (official)",
+  "repo": "anthropics/claude-plugins-official",
+  "path": "anthropics_claude-plugins-official",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "anthropics-kwp",
+  "label": "Anthropic knowledge-work plugins",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "anthropics_knowledge-work-plugins",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "trailofbits",
+  "label": "Trail of Bits",
+  "repo": "trailofbits/skills",
+  "path": "trailofbits_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "huggingface",
+  "label": "Hugging Face",
+  "repo": "huggingface/skills",
+  "path": "huggingface_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "microsoft",
+  "label": "Microsoft",
+  "repo": "microsoft/skills",
+  "path": "microsoft_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "microsoftdocs",
+  "label": "Microsoft Docs",
+  "repo": "MicrosoftDocs/Agent-Skills",
+  "path": "MicrosoftDocs_Agent-Skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "vercel",
+  "label": "Vercel",
+  "repo": "vercel-labs/agent-skills",
+  "path": "vercel-labs_agent-skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "cloudflare",
+  "label": "Cloudflare",
+  "repo": "cloudflare/skills",
+  "path": "cloudflare_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "sentry",
+  "label": "Sentry",
+  "repo": "getsentry/skills",
+  "path": "getsentry_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "expo",
+  "label": "Expo",
+  "repo": "expo/skills",
+  "path": "expo_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "stripe",
+  "label": "Stripe",
+  "repo": "stripe/ai",
+  "path": "stripe_ai",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "google-stitch",
+  "label": "Google Labs (Stitch)",
+  "repo": "google-labs-code/stitch-skills",
+  "path": "google-labs-code_stitch-skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "supabase",
+  "label": "Supabase",
+  "repo": "supabase/agent-skills",
+  "path": "supabase_agent-skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "openai-plugins",
+  "label": "OpenAI plugins",
+  "repo": "openai/plugins",
+  "path": "openai_plugins",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "openai-skills",
+  "label": "OpenAI skills (deprecated)",
+  "repo": "openai/skills",
+  "path": "openai_skills",
+  "tier": "official",
+  "license": "detect",
+  "deprecated": true
+ },
+ {
+  "id": "duckdb",
+  "label": "DuckDB",
+  "repo": "duckdb/duckdb-skills",
+  "path": "duckdb_duckdb-skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "notion",
+  "label": "Notion",
+  "repo": "makenotion/skills",
+  "path": "makenotion_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "figma",
+  "label": "Figma",
+  "repo": "figma/mcp-server-guide",
+  "path": "figma_mcp-server-guide",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "github-copilot",
+  "label": "GitHub awesome-copilot",
+  "repo": "github/awesome-copilot",
+  "path": "github_awesome-copilot",
+  "tier": "curated",
+  "license": "detect"
+ },
+ {
+  "id": "obra",
+  "label": "obra/superpowers",
+  "repo": "obra/superpowers",
+  "path": "obra_superpowers",
+  "tier": "curated",
+  "license": "detect"
+ },
+ {
+  "id": "kdense",
+  "label": "K-Dense scientific skills",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "K-Dense-AI_scientific-agent-skills",
+  "tier": "curated",
+  "license": "detect",
+  "category": "data-science"
+ },
+ {
+  "id": "alirezarezvani",
+  "label": "alirezarezvani/claude-skills",
+  "repo": "alirezarezvani/claude-skills",
+  "path": "alirezarezvani_claude-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "composio",
+  "label": "ComposioHQ awesome-claude-skills",
+  "repo": "ComposioHQ/awesome-claude-skills",
+  "path": "ComposioHQ_awesome-claude-skills",
+  "tier": "community",
+  "license": "Apache-2.0",
+  "category_by_dir": {
+   "composio-skills": "app-automation"
+  }
+ },
+ {
+  "id": "composio-codex",
+  "label": "Composio awesome-codex-skills",
+  "repo": "composio-community/awesome-codex-skills",
+  "path": "composio-community_awesome-codex-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "kesslernity",
+  "label": "kesslernity/awesome-copilot-agent-skills",
+  "repo": "kesslernity/awesome-copilot-agent-skills",
+  "path": "kesslernity_awesome-copilot-agent-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "gamedev",
+  "label": "awesome-gamedev-agent-skills",
+  "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+  "path": "gamedev-skills_awesome-gamedev-agent-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "seb1n",
+  "label": "seb1n/awesome-ai-agent-skills",
+  "repo": "seb1n/awesome-ai-agent-skills",
+  "path": "seb1n_awesome-ai-agent-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "antigravity",
+  "label": "sickn33 antigravity-awesome-skills (aggregator)",
+  "repo": "sickn33/antigravity-awesome-skills",
+  "path": "sickn33_antigravity-awesome-skills",
+  "tier": "aggregated",
+  "license": "detect"
+ },
+ {
+  "id": "google",
+  "label": "Google (skills)",
+  "repo": "google/skills",
+  "path": "google_skills",
+  "tier": "official",
+  "license": "detect"
+ },
+ {
+  "id": "pm-skills",
+  "label": "phuryn/pm-skills",
+  "repo": "phuryn/pm-skills",
+  "path": "phuryn_pm-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "lambdatest",
+  "label": "LambdaTest agent-skills",
+  "repo": "LambdaTest/agent-skills",
+  "path": "LambdaTest_agent-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "marketingskills",
+  "label": "coreyhaines31/marketingskills",
+  "repo": "coreyhaines31/marketingskills",
+  "path": "coreyhaines31_marketingskills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "medsci",
+  "label": "Aperivue/medsci-skills",
+  "repo": "Aperivue/medsci-skills",
+  "path": "Aperivue_medsci-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "phd-skills",
+  "label": "fcakyon/phd-skills",
+  "repo": "fcakyon/phd-skills",
+  "path": "fcakyon_phd-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "sanjay3290",
+  "label": "sanjay3290/ai-skills",
+  "repo": "sanjay3290/ai-skills",
+  "path": "sanjay3290_ai-skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "orchestra",
+  "label": "Orchestra-Research AI-Research-SKILLs",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "Orchestra-Research_AI-Research-SKILLs",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "venice",
+  "label": "Venice.ai skills",
+  "repo": "veniceai/skills",
+  "path": "veniceai_skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "deanpeters",
+  "label": "deanpeters/Product-Manager-Skills",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "deanpeters_Product-Manager-Skills",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "dr-claw",
+  "label": "OpenLAIR/dr-claw",
+  "repo": "OpenLAIR/dr-claw",
+  "path": "OpenLAIR_dr-claw",
+  "tier": "community",
+  "license": "detect"
+ },
+ {
+  "id": "list-voltagent",
+  "label": "VoltAgent awesome list",
+  "repo": "VoltAgent/awesome-agent-skills",
+  "path": "VoltAgent_awesome-agent-skills",
+  "kind": "list"
+ },
+ {
+  "id": "list-travisvn",
+  "label": "travisvn awesome list",
+  "repo": "travisvn/awesome-claude-skills",
+  "path": "travisvn_awesome-claude-skills",
+  "kind": "list"
+ },
+ {
+  "id": "list-behisecc",
+  "label": "BehiSecc awesome list",
+  "repo": "BehiSecc/awesome-claude-skills",
+  "path": "BehiSecc_awesome-claude-skills",
+  "kind": "list"
+ },
+ {
+  "id": "list-uhub",
+  "label": "uhub awesome list",
+  "repo": "uhub/awesome-agent-skills",
+  "path": "uhub_awesome-agent-skills",
+  "kind": "list"
+ },
+ {
+  "id": "list-neverbiasu",
+  "label": "neverbiasu research list",
+  "repo": "neverbiasu/awesome-research-skills",
+  "path": "neverbiasu_awesome-research-skills",
+  "kind": "list"
+ }
+]
